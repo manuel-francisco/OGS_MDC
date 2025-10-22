@@ -258,3 +258,283 @@ La organización se estructura en **4 bloques temáticos**, cada uno con varias 
   d) Se ha trabajado en equipo, aplicando metodologías colaborativas propias de entornos DevOps.  
   e) Se ha documentado el proyecto final, incluyendo procedimientos, configuraciones y justificación técnica de las decisiones tomadas.  
 
+## 5. Metodología
+
+### 5.1. Principios metodológicos  
+La metodología aplicada en este módulo se basa en los siguientes principios:  
+
+- **Aprendizaje activo y significativo**: los estudiantes adquieren conocimientos a partir de la práctica real, la resolución de problemas y la experimentación directa con herramientas DevOps.  
+- **Enfoque competencial**: las actividades y evaluaciones se orientan a desarrollar y demostrar las competencias profesionales, personales y sociales asociadas a la automatización de sistemas y despliegues.  
+- **Contextualización profesional**: se reproducen entornos reales de trabajo del sector TIC (infraestructuras cloud, pipelines CI/CD, orquestación con contenedores, automatización con Ansible y Terraform).  
+- **Integración teoría-práctica**: los contenidos conceptuales se introducen de forma breve, priorizando la aplicación práctica en entornos virtualizados y en la nube.  
+- **Autonomía y autoaprendizaje**: se fomenta la búsqueda de información técnica en fuentes oficiales, la lectura de documentación en inglés y la resolución autónoma de incidencias.  
+- **Colaboración y trabajo en equipo**: se promueven dinámicas de grupo y metodologías ágiles (Scrum, Kanban), que simulan equipos DevOps reales donde se coordina desarrollo, operaciones y seguridad.  
+- **Evaluación continua**: se valoran tanto los productos entregados como el proceso seguido, incluyendo observación directa, participación, progreso técnico y madurez profesional.  
+
+Esta programación se alinea con las **líneas estratégicas del Proyecto Educativo de Centro (PEC)**, especialmente en lo relativo a la digitalización, la igualdad de género, la convivencia escolar y la sostenibilidad medioambiental.  
+
+En el marco del módulo de **Seguridad y Automatización en entornos DevOps**, estas líneas se concretan en:  
+- La promoción de un uso ético, responsable y seguro de las tecnologías de la información.  
+- La visibilización de referentes femeninos en el ámbito tecnológico (Plan de Igualdad).  
+- La implementación de dinámicas colaborativas y cooperativas en equipos DevOps (Plan de Convivencia y Paz).  
+- El fomento del uso de software libre, la eficiencia energética en despliegues cloud y la sostenibilidad digital (Plan de Sostenibilidad).  
+
+---
+
+### 5.2. Estrategias y técnicas de enseñanza-aprendizaje  
+
+- **Clases prácticas en aula-taller**: implementación de pipelines CI/CD, creación de contenedores, automatización de infraestructuras y configuración de sistemas monitorizados.  
+- **Aprendizaje basado en proyectos (ABP)**: desarrollo de proyectos integradores que simulan entornos empresariales DevOps reales.  
+- **Aprendizaje cooperativo**: trabajo en grupos que asumen distintos roles (administrador de sistemas, desarrollador, responsable de despliegue, analista de monitorización).  
+- **Estudio de casos**: análisis de entornos reales y resolución de incidencias en escenarios de integración continua, contenedores o IaC.  
+- **Exposiciones técnicas del alumnado**: presentación y defensa de pipelines, configuraciones automatizadas o paneles de monitorización.  
+- **Uso de entornos virtualizados y cloud**: VirtualBox, Docker, Kubernetes, Ansible, Terraform, GitHub Actions, Jenkins, Prometheus y Grafana.  
+- **Proyectos integradores**: prácticas finales de bloque o de RA donde se combinan varias herramientas y metodologías para lograr un despliegue funcional y seguro.  
+
+---
+
+### 5.3. Actividades del proceso de enseñanza-aprendizaje  
+
+- **Actividades iniciales**:  
+  - Evaluación de conocimientos previos sobre administración de sistemas, control de versiones y redes.  
+  - Introducción a los fundamentos de DevOps y configuración básica del entorno de trabajo (GitHub, terminal, entornos virtuales).  
+
+- **Actividades de desarrollo**:  
+  - Prácticas guiadas sobre control de versiones, branching y colaboración con Git y GitHub.  
+  - Configuración de pipelines CI/CD utilizando GitHub Actions, Jenkins o GitLab CI.  
+  - Creación y despliegue de contenedores con Docker y orquestación en Kubernetes.  
+  - Automatización de configuraciones y despliegues mediante Ansible y Terraform (IaC).  
+  - Implantación de sistemas de monitorización y alertas con Prometheus, Grafana y ELK Stack.  
+  - Integración de prácticas de seguridad (DevSecOps): gestión de credenciales, secretos y control de acceso.  
+  - Elaboración de documentación técnica y uso de Markdown para informes y proyectos.  
+
+- **Actividades de refuerzo y ampliación**:  
+  - Retos de automatización avanzada y despliegue de microservicios.  
+  - Integración de herramientas complementarias (Vault, ArgoCD, GitOps).  
+  - Participación en pequeños proyectos de equipo con repositorios Git colaborativos.  
+
+- **Actividades de evaluación**:  
+  - Entregas prácticas: repositorios, pipelines, configuraciones y dashboards documentados.  
+  - Pruebas teórico-prácticas por bloque.  
+  - Proyecto integrador final (RA7) aplicando todo el ciclo DevOps en un entorno real o simulado.  
+
+---
+
+### 5.4. Tratamiento de los contenidos transversales  
+
+A lo largo del módulo se incorporan transversalmente los siguientes contenidos:  
+
+- **Sostenibilidad medioambiental**: optimización del consumo energético en entornos cloud, buenas prácticas en uso de recursos virtuales y fomento del software libre.  
+- **Prevención de riesgos laborales**: seguridad eléctrica y física en el aula-taller, ergonomía, y gestión segura de datos y credenciales.  
+- **Igualdad de género y respeto a la diversidad**: visibilización de referentes femeninos y promoción de un ambiente inclusivo y cooperativo.  
+- **Educación para la paz y la convivencia**: fomento del trabajo en equipo, la mediación en conflictos y la comunicación asertiva.  
+- **Inserción laboral y emprendimiento**: orientación hacia el trabajo en empresas DevOps, metodologías ágiles y documentación profesional.  
+- **Competencia digital avanzada**: dominio de herramientas de automatización, orquestación, control de versiones y seguridad en sistemas.  
+
+---
+
+## 6. Evaluación
+
+### 6.1. Evaluación inicial  
+Durante las primeras sesiones se realizará una **evaluación inicial** para identificar el nivel de partida del alumnado.  
+Instrumentos empleados:  
+- Cuestionario diagnóstico sobre administración de sistemas, virtualización, control de versiones y automatización.  
+- Debate grupal sobre experiencias previas con Linux, scripting, contenedores o herramientas DevOps.  
+
+Los resultados permitirán ajustar la metodología, proponer actividades de refuerzo y organizar los grupos de trabajo.  
+
+---
+
+### 6.2. Procedimientos de evaluación  
+La evaluación será **continua y formativa**, valorando tanto el proceso como los resultados obtenidos.  
+Procedimientos principales:  
+
+- **Observación directa** del trabajo en el aula-taller y del desempeño en equipos DevOps.  
+- **Prácticas y proyectos** de cada bloque, evaluando funcionalidad, seguridad, automatización y documentación.  
+- **Pruebas escritas**:  
+  - Tipo test.  
+  - Preguntas de respuesta corta.  
+  - Preguntas de desarrollo técnico.  
+- **Pruebas prácticas** en laboratorio (configuración, despliegue y resolución de incidencias).  
+- **Exposiciones orales** de pipelines o proyectos.  
+- **Autoevaluación y coevaluación** en dinámicas colaborativas.  
+
+Las actividades no entregadas se calificarán con **0**.  
+No se admitirán entregas fuera de plazo salvo autorización expresa del docente.  
+Las actividades realizadas en el aula tendrán carácter **no recuperable**.  
+
+---
+
+### 6.3. Criterios de calificación  
+
+1. **Cálculo de la nota final del módulo**  
+   - La nota se obtiene mediante la **media ponderada de los RA** según su peso en las **105 h** totales.  
+   - La nota de cada **RA** se calcula como la media de sus criterios.  
+   - La nota de cada **criterio** se obtiene como la media de las actividades asociadas.  
+
+2. **Requisitos mínimos para superar el módulo**  
+   - Nota media ponderada ≥ **5,0**.  
+   - Nota mínima de **5,0** en cada RA.  
+   - Si algún RA < 5, la **nota final del módulo** será la nota del RA no superado.  
+
+3. **Ejemplo de cálculo**  
+   - RA1 (3h) = 6,0  
+   - RA2 (12h) = 5,0  
+   - RA3 (18h) = 7,0  
+   - RA4 (18h) = 6,5  
+   - RA5 (15h) = 5,5  
+   - RA6 (12h) = 8,0  
+   - RA7 (27h) = 6,0  
+   - Nota ponderada final = 6,2 → **Módulo superado**.  
+
+---
+
+### 6.4. Instrumentos de evaluación  
+
+- **Cuaderno de prácticas y repositorios Git**.  
+- **Rúbricas de evaluación** para pipelines, contenedores, IaC y monitorización.  
+- **Exámenes teórico-prácticos** con parte escrita y ejecución técnica.  
+- **Pruebas orales** y **defensa de proyectos DevOps**.  
+- **Exposiciones** de trabajos y despliegues.  
+- **Observación directa** del trabajo, actitud y cooperación en equipo.  
+
+---
+
+### 6.5. Recuperación y mejora de resultados  
+- La **evaluación continua** se mantiene durante todo el curso.  
+- Los alumnos que no superen todos los RA deberán presentarse a la **evaluación ordinaria**:  
+  - **Prueba teórica** (test, preguntas cortas, desarrollo).  
+  - **Prueba práctica** (configuración o despliegue automatizado).  
+- Los no superados deberán presentarse a la **evaluación extraordinaria**, con pruebas equivalentes.  
+- Podrán realizar **actividades de ampliación o mejora** (nuevos despliegues, optimización de pipelines, automatización avanzada).  
+
+---
+
+## 7. Medidas de atención a la diversidad  
+
+### Adaptaciones metodológicas  
+La metodología será flexible, centrada en actividades prácticas y resolución de problemas reales en entornos DevOps.  
+Se ofrecerán recursos adicionales (guías paso a paso, videotutoriales, repositorios de ejemplo) y se ajustará la complejidad de las prácticas.  
+
+### Adaptaciones de acceso  
+Se garantizará la accesibilidad física y digital al aula y a los equipos, incluyendo el uso de software libre, documentación digital y herramientas adaptadas.  
+
+### Estrategias de apoyo  
+El alumnado con dificultades contará con tutorías individuales o en pequeños grupos.  
+Para el alumnado avanzado se ofrecerán retos adicionales: proyectos en la nube, despliegues multicluster o pipelines avanzados.  
+
+### Seguimiento individualizado  
+El seguimiento será continuo, con especial atención a quienes presenten mayores dificultades.  
+En coordinación con el **Departamento de Orientación**, se aplicarán adaptaciones personalizadas cuando sea necesario.  
+
+### Principios pedagógicos  
+Las medidas se basan en los principios de inclusión, equidad, normalización, prevención y refuerzo temprano, garantizando que todo el alumnado alcance las competencias profesionales del módulo.  
+
+---
+
+## 8. Materiales y recursos didácticos  
+
+### 8.1. Recursos materiales y tecnológicos  
+
+- **Aula-taller DevOps** con:  
+  - Ordenadores conectados en red y con acceso a Internet.  
+  - Servidores físicos o virtualizados.  
+  - Switches y routers configurables.  
+  - Pizarra digital y proyector.  
+
+- **Software de virtualización y orquestación**:  
+  - VirtualBox, Docker, Kubernetes, Vagrant.  
+
+- **Herramientas de automatización y CI/CD**:  
+  - Git, GitHub/GitLab, Jenkins, GitHub Actions, Ansible, Terraform.  
+
+- **Monitorización y seguridad**:  
+  - Prometheus, Grafana, ELK Stack, Vault.  
+
+- **Recursos online**:  
+  - Documentación oficial, tutoriales y repositorios (GitHub, Docker Hub, Terraform Registry).  
+
+- **Recursos del alumnado**:  
+  - Memorias USB o almacenamiento en la nube.  
+  - Portátiles personales (BYOD).  
+  - Acceso a VPS o nube educativa.  
+
+---
+
+### 8.2. Bibliografía y documentación de apoyo  
+- Páginas oficiales de herramientas DevOps: Git, Docker, Kubernetes, Jenkins, Ansible, Terraform, Prometheus, Grafana.  
+- Documentación de fabricantes y comunidades open source.  
+- Manuales y guías técnicas en inglés.  
+
+### 8.3. Otros recursos de apoyo  
+- Repositorios docentes en GitHub.  
+- Charlas con profesionales del sector DevOps.  
+- Talleres prácticos en colaboración con empresas TIC.  
+- Acceso a bibliotecas digitales y conferencias online.  
+
+---
+
+## 9. Actividades complementarias y extraescolares  
+
+Se promoverán actividades que acerquen al alumnado a entornos profesionales reales:  
+
+- Visitas a empresas tecnológicas, centros de datos y proveedores cloud.  
+- Asistencia a ferias y congresos sobre automatización, infraestructura, seguridad y DevOps.  
+- Participación en **hackathones y competiciones técnicas**.  
+- Talleres impartidos por profesionales sobre CI/CD, contenedores, IaC o observabilidad.  
+- Charlas con antiguos alumnos que trabajen en entornos DevOps.  
+
+---
+
+## 10. Planes y programas vinculados al centro  
+
+El módulo de **Seguridad y Automatización en entornos DevOps (AN07269)** se integra plenamente en el **Proyecto Educativo de Centro (PEC)** y en los planes institucionales del IES Mar de Cádiz:  
+
+- **Plan de Igualdad**, fomentando la participación femenina en tecnología.  
+- **Plan de Convivencia y Paz**, impulsando el trabajo cooperativo en equipos DevOps.  
+- **Plan de Fomento de la Lectura**, mediante consulta de documentación técnica y manuales en inglés.  
+- **Plan de Digitalización y Sostenibilidad**, priorizando el uso eficiente de recursos TIC y software libre.  
+- **Plan de Acción Tutorial y Salud Laboral**, garantizando un entorno de aprendizaje seguro y saludable.  
+
+---
+
+## 11. Evaluación de la programación didáctica  
+
+La programación del módulo será evaluada de forma continua para garantizar su adecuación, coherencia y eficacia.  
+
+- **Análisis de resultados**: rendimiento del alumnado, tasas de superación por RA y calidad técnica de los proyectos.  
+- **Retroalimentación del alumnado** mediante encuestas y debates.  
+- **Coordinación docente** con el Departamento de Informática y módulos afines.  
+- **Informe anual** de evaluación y propuestas de mejora.  
+
+Este proceso de revisión continua permitirá mantener la programación actualizada y alineada con las exigencias del sector profesional y las metodologías DevOps más recientes.
+
+
+### 11.1. Tabla de cotejo de la programación didáctica
+
+> Nota: los marcados con (*) no son de obligado cumplimiento normativo.
+
+| Indicador (lista de cotejo) | Sí | No | Observaciones |
+|---|:--:|:--:|---|
+| Composición del departamento didáctico indicada * |  | ✘ | Falta añadir relación nominal de docentes. No se realizará por GDPR/LOPD. |
+| Asignación de materias/ámbitos a los componentes del departamento * |  | ✘ | Falta tabla de asignación docente. No se realizará por GDPR/LOPD. |
+| Referencias legislativas principales incluidas * | ✔︎ |  | [1.3 Marco legislativo](#13-marco-legislativo) |
+| Coherencia con objetivos/líneas del Proyecto Educativo de Centro | ✔︎ |  | [5.1 Principios metodológicos](#51-principios-metodológicos) / [10. Planes y programas vinculados al centro](#10-planes-y-programas-vinculados-al-centro) |
+| Relación de elementos curriculares conforme al anexo (RA, criterios, etc.) | ✔︎ |  | [4.2 Resultados de aprendizaje y criterios de evaluación](#42-resultados-de-aprendizaje-y-criterios-de-evaluación) |
+| Concreción curricular acorde al PEC y planes/programas del centro | ✔︎ |  | [4.2 Resultados de aprendizaje y criterios de evaluación](#42-resultados-de-aprendizaje-y-criterios-de-evaluación) / [10. Planes y programas vinculados al centro](#10-planes-y-programas-vinculados-al-centro) |
+| Distribución temporal realista y adecuada a semanas por trimestre | ✔︎ |  | [4.1 Distribución de contenidos y secuenciación temporal](#41-distribución-de-contenidos-y-secuenciación-temporal) |
+| Integración de elementos de planes y programas del centro | ✔︎ |  | [10. Planes y programas vinculados al centro](#10-planes-y-programas-vinculados-al-centro) |
+| Contribución a **competencias clave** y a objetivos de etapa | ✔︎ |  | [3. Competencias profesionales, personales y sociales](#3-competencias-profesionales-personales-y-sociales) |
+| (FPI) Contribución a **competencias profesionales, personales y sociales** | ✔︎ |  | [3. Competencias profesionales, personales y sociales](#3-competencias-profesionales-personales-y-sociales) |
+| **Principios pedagógicos** desarrollados | ✔︎ |  | [5. Metodología](#5-metodología) |
+| Principio pedagógico relevante vinculado a objetivos del centro | ✔︎ |  | [5.1 Principios metodológicos](#51-principios-metodológicos) / [10. Planes y programas vinculados al centro](#10-planes-y-programas-vinculados-al-centro) |
+| **Estrategias metodológicas** detalladas y coherentes | ✔︎ |  | [5.2 Estrategias y técnicas de enseñanza-aprendizaje](#52-estrategias-y-técnicas-de-enseñanza-aprendizaje) |
+| **Instrumentos de evaluación** variados y coherentes | ✔︎ |  | [6.2 Procedimientos de evaluación](#62-procedimientos-de-evaluación) |
+| **Referentes de evaluación** (criterios) detallados | ✔︎ |  | [4.2 Resultados de aprendizaje y criterios de evaluación](#42-resultados-de-aprendizaje-y-criterios-de-evaluación) |
+| **Determinación de la calificación** detallada y vinculada a criterios | ✔︎ |  | [6.3 Criterios de calificación](#63-criterios-de-calificación) |
+| **Evaluación inicial** concretada * | ✔︎ |  | [6.1 Evaluación inicial](#61-evaluación-inicial) |
+| Efectos de la evaluación inicial sobre la programación | ✔︎ |  | [6.1 Evaluación inicial](#61-evaluación-inicial) / [7. Medidas de atención a la diversidad](#7-medidas-de-atención-a-la-diversidad) |
+| **Medidas de atención a la diversidad** programadas | ✔︎ |  | [7. Medidas de atención a la diversidad](#7-medidas-de-atención-a-la-diversidad) |
+| **Recursos y materiales** coherentes con RA y SA | ✔︎ |  | [8. Materiales y recursos didácticos](#8-materiales-y-recursos-didácticos) |
+| **Actividades complementarias y extraescolares** programadas | ✔︎ |  | [9. Actividades complementarias y extraescolares](#9-actividades-complementarias-y-extraescolares) |
+| **Indicadores** para evaluar la programación didáctica | ✔︎ |  | [11. Evaluación de la programación didáctica](#11-evaluación-de-la-programación-didáctica) |
