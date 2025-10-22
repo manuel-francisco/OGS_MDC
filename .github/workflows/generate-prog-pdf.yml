@@ -3,7 +3,7 @@ name: Generate Programacion PDF
 on:
   push:
     branches:
-      - SRI-1/programacion
+      - OGS-1/programacion
 
 jobs:
   build:
@@ -35,7 +35,7 @@ jobs:
           -V DPTO="Dpto. Informática y Comunicaciones" \
           -V CIUDAD="El Puerto de Santa María" \
           -V PROVINCIA="Cádiz" \
-          -o programacion_SRI.pdf
+          -o programacion_OGS.pdf
       
 
       - name: Convert SINTESIS.md to PDF
@@ -54,12 +54,12 @@ jobs:
           -V DPTO="Dpto. Informática y Comunicaciones" \
           -V CIUDAD="El Puerto de Santa María" \
           -V PROVINCIA="Cádiz" \
-          -o sintesis_SRI.pdf
+          -o sintesis_OGS.pdf
 
       - name: Upload PDF artifact
         uses: actions/upload-artifact@v4
         with:
           name: sri_pdfs
           path: |
-            programacion_SRI.pdf
-            sintesis_SRI.pdf
+            programacion_OGS.pdf
+            sintesis_OGS.pdf
