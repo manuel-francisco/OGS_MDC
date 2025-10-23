@@ -5,12 +5,12 @@
 
 ---
 
-### RA1. Explica los fundamentos de DevOps y su impacto en la administración de sistemas, diferenciándolo de los enfoques tradicionales
+### RA1. Explica los fundamentos de DevOps y su impacto en la administración de sistemas, diferenciándolo de los enfoques tradicionales  
 
-**Contribución del RA1:** 2,9 %
+**Contribución del RA1:** 2,9 %  
 
-| Letra | Criterio de evaluación                                                                                  |   %  |
-| :---: | ------------------------------------------------------------------------------------------------------- | :--: |
+| Letra | Criterio de evaluación | % |
+|:---:|-------------------------------------------------------------|:--:|
 | a) | Explica la evolución de los modelos tradicionales de administración de sistemas hacia DevOps. | 0,41 |
 | b) | Describe las ventajas y desventajas del enfoque DevOps en comparación con modelos tradicionales. | 0,41 |
 | c) | Identifica las principales herramientas y metodologías utilizadas en entornos DevOps. | 0,41 |
@@ -21,12 +21,12 @@
 
 ---
 
-### RA2. Utiliza herramientas de control de versiones para la gestión de código y la colaboración en entornos DevOps
+### RA2. Utiliza herramientas de control de versiones para la gestión de código y la colaboración en entornos DevOps  
 
-**Contribución del RA2:** 11,4 %
+**Contribución del RA2:** 11,4 %  
 
-| Letra | Criterio de evaluación                                                                 |   %  |
-| :---: | -------------------------------------------------------------------------------------- | :--: |
+| Letra | Criterio de evaluación | % |
+|:---:|-------------------------------------------------------------|:--:|
 | a) | Instala y configura herramientas de control de versiones como Git. | 1,90 |
 | b) | Crea y gestiona repositorios remotos en plataformas como GitHub o GitLab. | 1,90 |
 | c) | Aplica estrategias de branching como Git Flow en un entorno de trabajo colaborativo. | 1,90 |
@@ -36,12 +36,12 @@
 
 ---
 
-### RA3. Diseña y gestiona pipelines de Integración y Despliegue Continuo (CI/CD) para la automatización de procesos
+### RA3. Diseña y gestiona pipelines de Integración y Despliegue Continuo (CI/CD) para la automatización de procesos  
 
-**Contribución del RA3:** 17,1 %
+**Contribución del RA3:** 17,1 %  
 
-| Letra | Criterio de evaluación                                                                     |   %  |
-| :---: | ------------------------------------------------------------------------------------------ | :--: |
+| Letra | Criterio de evaluación | % |
+|:---:|-------------------------------------------------------------|:--:|
 | a) | Explica los principios del desarrollo y despliegue continuo. | 2,44 |
 | b) | Diseña pipelines para la automatización de pruebas y despliegue de aplicaciones. | 2,44 |
 | c) | Configura herramientas de CI/CD como Jenkins, GitHub Actions o GitLab CI. | 2,44 |
@@ -52,12 +52,12 @@
 
 ---
 
-### RA4. Implementa entornos basados en contenedores y orquestación utilizando Docker y Kubernetes
+### RA4. Implementa entornos basados en contenedores y orquestación utilizando Docker y Kubernetes  
 
-**Contribución del RA4:** 17,1 %
+**Contribución del RA4:** 17,1 %  
 
-| Letra | Criterio de evaluación                                                                    |   %  |
-| :---: | ----------------------------------------------------------------------------------------- | :--: |
+| Letra | Criterio de evaluación | % |
+|:---:|-------------------------------------------------------------|:--:|
 | a) | Explica las diferencias entre virtualización y contenedores. | 2,44 |
 | b) | Crea imágenes y contenedores utilizando Docker. | 2,44 |
 | c) | Gestiona múltiples contenedores con Docker Compose. | 2,44 |
@@ -68,12 +68,12 @@
 
 ---
 
-### RA5. Aplica técnicas de Infraestructura como Código (IaC) para la automatización de la configuración y despliegue de sistemas
+### RA5. Aplica técnicas de Infraestructura como Código (IaC) para la automatización de la configuración y despliegue de sistemas  
 
-**Contribución del RA5:** 14,3 %
+**Contribución del RA5:** 14,3 %  
 
-| Letra | Criterio de evaluación                                                                     |   %  |
-| :---: | ------------------------------------------------------------------------------------------ | :--: |
+| Letra | Criterio de evaluación | % |
+|:---:|-------------------------------------------------------------|:--:|
 | a) | Define el concepto de Infraestructura como Código y sus ventajas. | 2,38 |
 | b) | Automatiza configuraciones de servidores utilizando Ansible. | 2,38 |
 | c) | Despliega infraestructuras en la nube con Terraform. | 2,38 |
@@ -83,12 +83,12 @@
 
 ---
 
-### RA6. Configura sistemas de monitorización y gestión de logs en entornos DevOps
+### RA6. Configura sistemas de monitorización y gestión de logs en entornos DevOps  
 
-**Contribución del RA6:** 11,4 %
+**Contribución del RA6:** 11,4 %  
 
-| Letra | Criterio de evaluación                                                                     |   %  |
-| :---: | ------------------------------------------------------------------------------------------ | :--: |
+| Letra | Criterio de evaluación | % |
+|:---:|-------------------------------------------------------------|:--:|
 | a) | Explica la importancia de la monitorización en entornos DevOps. | 1,90 |
 | b) | Instala y configura Prometheus y Grafana para visualización de métricas. | 1,90 |
 | c) | Gestiona logs de sistemas con ELK Stack (Elasticsearch, Logstash, Kibana). | 1,90 |
@@ -98,12 +98,12 @@
 
 ---
 
-### RA7. Desarrolla un proyecto integrador aplicando los conocimientos y herramientas de DevOps en un caso práctico real
+### RA7. Desarrolla un proyecto integrador aplicando los conocimientos y herramientas de DevOps en un caso práctico real  
 
-**Contribución del RA7:** 25,7 %
+**Contribución del RA7:** 25,7 %  
 
-| Letra | Criterio de evaluación                                                                     |   %  |
-| :---: | ------------------------------------------------------------------------------------------ | :--: |
+| Letra | Criterio de evaluación | % |
+|:---:|-------------------------------------------------------------|:--:|
 | a) | Se ha planificado un proyecto que integre herramientas de control de versiones, CI/CD, contenedores e IaC. | 5,14 |
 | b) | Se ha desplegado un entorno completo en la nube utilizando prácticas de automatización. | 5,14 |
 | c) | Se han implementado sistemas de monitorización y alertas en el proyecto. | 5,14 |
