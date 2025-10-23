@@ -26,7 +26,7 @@ El desarrollo del presente módulo se apoya en la siguiente normativa:
 # Objetivos  
 
 ## Objetivos generales del ciclo formativo  
-De acuerdo con el **Real Decreto 1629/2009, de 30 de octubre**, por el que se establece el título de Técnico Superior en Administración de Sistemas Informáticos en Red, los objetivos generales del ciclo son:  
+De acuerdo con la **Orden de 19 de julio de 2010**, por el que se establece el título de Técnico Superior en Administración de Sistemas Informáticos en Red, los objetivos generales del ciclo son:  
 
 a) Analizar la estructura del software de base, comparando las características y prestaciones de sistemas libres y propietarios, para administrar sistemas operativos de servidor.  
 b) Instalar y configurar el software de base, siguiendo documentación técnica y especificaciones dadas, para administrar sistemas operativos de servidor.  
@@ -41,9 +41,30 @@ j) Mantener una actitud de innovación y actualización permanente ante los camb
 k) Fomentar el espíritu emprendedor y la capacidad de autoempleo.  
 l) Participar de forma activa en la vida económica, social y cultural con actitud crítica y responsable.  
 m) Conocer y aplicar la legislación laboral y los derechos y deberes derivados de las relaciones laborales.  
-n) Trabajar en condiciones de seguridad y salud, identificando riesgos y aplicando medidas preventivas.  
+n) Trabajar en condiciones de seguridad y salud, identificando riesgos y aplicando medidas preventivas.
+ñ) Aplicar técnicas de monitorización interpretando los resultados y relacionándolos con las medidas correctoras para diagnosticar y corregir las disfunciones.
+o) Establecer la planificación de tareas, analizando actividades y cargas de trabajo del sistema para gestionar el mantenimiento.
+p) Identificar los cambios tecnológicos, organizativos, económicos y laborales en su actividad, analizando sus implicaciones en el ámbito de trabajo, para resolver problemas y mantener una cultura de actualización e innovación.
+q) Identificar formas de intervención en situaciones colectivas, analizando el proceso de toma de decisiones y efectuando consultas para liderar las mismas.
+r) Identificar y valorar las oportunidades de aprendizaje y su relación con el mundo laboral, analizando las ofertas y demandas del mercado para gestionar su carrera profesional.
+s) Reconocer las oportunidades de negocio, identificando y analizando demandas del mercado para crear y gestionar una pequeña empresa.
+t) Reconocer sus derechos y deberes como agente activo
+en la sociedad, analizando el marco legal que regula las condiciones sociales y laborales para participar como ciudadano democrático.
 
 ## Objetivos generales del módulo  
+La formación del módulo contribuye a alcanzar los objetivos generales de este ciclo formativo que se relacionan a continuación:
+
+f) Implantar soluciones de seguridad y alta disponibilidad, seleccionando herramientas y técnicas para asegurar la integridad del sistema y de los datos.  
+g) Diagnosticar disfunciones en sistemas y redes, aplicando técnicas de monitorización, para restablecer su funcionalidad.  
+i) Planificar y ejecutar tareas de mantenimiento, analizando cargas de trabajo y actividades del sistema.  
+j) Mantener una actitud de innovación y actualización permanente ante los cambios tecnológicos y organizativos del sector.  
+ñ) Aplicar técnicas de monitorización interpretando los resultados y relacionándolos con las medidas correctoras para diagnosticar y corregir las disfunciones.
+o) Establecer la planificación de tareas, analizando actividades y cargas de trabajo del sistema para gestionar el mantenimiento.
+p) Identificar los cambios tecnológicos, organizativos, económicos y laborales en su actividad, analizando sus implicaciones en el ámbito de trabajo, para resolver problemas y mantener una cultura de actualización e innovación.
+q) Identificar formas de intervención en situaciones colectivas, analizando el proceso de toma de decisiones y efectuando consultas para liderar las mismas.
+t) Reconocer sus derechos y deberes como agente activo en la sociedad, analizando el marco legal que regula las condiciones sociales y laborales para participar como ciudadano democrático.
+
+## Objetivos específicos del módulo  
 Los objetivos específicos del módulo de **Seguridad y Automatización en entornos DevOps (OGS)** son:  
 
 a) Explicar los fundamentos de DevOps y su impacto en la administración de sistemas, diferenciándolo de los enfoques tradicionales.  
@@ -53,40 +74,8 @@ d) Implementar entornos basados en contenedores y orquestación utilizando Docke
 e) Aplicar técnicas de Infraestructura como Código (IaC) para la automatización de la configuración y despliegue de sistemas.  
 f) Configurar sistemas de monitorización y gestión de logs en entornos DevOps.  
 
-# Competencias profesionales, personales y sociales  
 
-## Competencias del ciclo formativo  
-La competencia general del título de **Técnico Superior en Administración de Sistemas Informáticos en Red** consiste en configurar, administrar y mantener sistemas informáticos, garantizando la funcionalidad, la integridad de los recursos y servicios del sistema, con la calidad exigida y cumpliendo la normativa vigente.  
-
-Las competencias profesionales, personales y sociales del ciclo son:  
-
-a) Administrar sistemas operativos de servidor, instalando y configurando el software en condiciones de calidad para asegurar el funcionamiento del sistema.  
-b) Administrar servicios de red (web, mensajería electrónica, transferencia de archivos, etc.) instalando y configurando el software en condiciones de calidad.  
-c) Administrar aplicaciones instalando y configurando el software en condiciones de calidad para responder a las necesidades de la organización.  
-d) Implantar y gestionar bases de datos administrando el software de gestión en condiciones de calidad.  
-e) Optimizar el rendimiento del sistema configurando y evaluando dispositivos hardware.  
-f) Determinar e implantar infraestructuras de redes telemáticas, asegurando su conectividad y rendimiento.  
-g) Implementar soluciones de seguridad y alta disponibilidad para prevenir fallos y garantizar la continuidad de los servicios.  
-h) Diagnosticar y corregir disfunciones del sistema mediante técnicas de monitorización y medidas correctivas.  
-i) Administrar usuarios y recursos del sistema, garantizando accesos seguros y disponibilidad.  
-j) Gestionar tareas de mantenimiento en función de cargas de trabajo y planes establecidos.  
-k) Mantener una actitud de innovación y actualización ante los cambios tecnológicos.  
-l) Resolver problemas y tomar decisiones de forma autónoma en el ámbito de su competencia.  
-m) Liderar y colaborar en situaciones colectivas, mediando en conflictos y fomentando un ambiente de trabajo positivo.  
-n) Fomentar el espíritu emprendedor, el autoempleo y la creación de pequeñas empresas.  
-o) Participar de manera activa, crítica y responsable en la sociedad y en la vida profesional.  
-p) Conocer y aplicar la normativa laboral, así como las medidas de prevención de riesgos y protección medioambiental.  
-
-## Competencias específicas del módulo OGS  
-El módulo de **Seguridad y Automatización en entornos DevOps** contribuye de manera particular al desarrollo de las siguientes competencias:
-
-a) Explicar los fundamentos de DevOps y su impacto en la administración de sistemas.  
-b) Utilizar herramientas de control de versiones en entornos colaborativos, aplicando buenas prácticas de documentación y resolución de conflictos.  
-c) Diseñar y gestionar pipelines de CI/CD, integrando pruebas y despliegues automatizados.  
-d) Implementar y administrar entornos basados en contenedores con Docker y Kubernetes, garantizando su seguridad y escalabilidad.  
-e) Aplicar técnicas de Infraestructura como Código (IaC) para la configuración reproducible y el despliegue automatizado de sistemas.  
-f) Configurar sistemas de monitorización y gestión de logs, interpretando métricas e implementando alertas en entornos DevOps.  
-g) Integrar metodologías DevOps en escenarios profesionales, favoreciendo la colaboración entre equipos de desarrollo y operaciones.  
+# Contenidos
 
 ## Distribución de contenidos y secuenciación temporal  
 
