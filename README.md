@@ -95,7 +95,7 @@ La organización se estructura en **4 bloques temáticos**, cada uno con varias 
   - UD6: Principios de CI/CD → 9 h  
   - UD7: Diseño de pipelines (inicio) → 9 h  
 
-### Segundo trimestre (12 semanas → 36 h)  
+### Segundo trimestre (11 semanas → 33 h)  
 - **Bloque 2: Contenedores e integración continua (continuación)**  
   - UD7: Diseño de pipelines (finalización) → 9 h  
 
@@ -104,18 +104,18 @@ La organización se estructura en **4 bloques temáticos**, cada uno con varias 
   - UD9: Infrastructure-as-Code → 9 h  
   - UD10: Monitorización y gestión de logs (inicio) → 9 h  
 
-### Tercer trimestre (9 semanas → 27 h)  
+### Tercer trimestre (10 semanas → 30 h)  
 - **Bloque 3: Orquestación, IaC y monitorización (continuación)**  
   - UD10: Monitorización y gestión de logs (finalización) → 3 h  
-  - UD11: Despliegue en la nube → 6 h  
+  - UD11: Despliegue en la nube → 3 h  
 
 - **Bloque 4: DevOps en la vida real**  
-  - UD12: DevOps en la vida real (proyectos integradores y casos prácticos) → 18 h  
+  - UD12 DUAL: DevOps en la vida real (proyectos integradores y casos prácticos) → 24 h  
 
-## Relación de Resultados de Aprendizaje (RA) con Unidades Didácticas (UD)  
+## Distribución de Unidades Didácticas  
 
-| Bloque | Unidad Didáctica     | RA | Horas | Evaluación |
-|--------|----------------------|----|-------|------------|
+| Bloque | Unidad Didáctica | RA | Horas | Evaluación |
+|--------|------------------|----|-------|-------------|
 | 1 | UD1 | Introducción a DevOps | RA1 | 3 h | 1º Trimestre |
 | 1 | UD2 | Sistemas de control de versiones | RA2 | 6 h | 1º Trimestre |
 | 1 | UD3 | Estrategias de branching y trabajo colaborativo | RA2 | 6 h | 1º Trimestre |
@@ -131,7 +131,7 @@ La organización se estructura en **4 bloques temáticos**, cada uno con varias 
 
 ---
 
-### Número de horas por bloque  
+## Número de horas por bloque  
 
 | Bloque | Título | Horas |
 |--------|--------|-------|
@@ -143,7 +143,7 @@ La organización se estructura en **4 bloques temáticos**, cada uno con varias 
 
 ---
 
-### Número de horas por trimestre  
+## Número de horas por trimestre  
 
 | Trimestre | Semanas | Bloques incluidos | Horas |
 |-----------|---------|------------------|-------|
@@ -154,10 +154,10 @@ La organización se estructura en **4 bloques temáticos**, cada uno con varias 
 
 ---
 
-### Número de horas por RA  
+## Número de horas por RA
 
-| Resultados Aprendizaje | UD Asociadas | Horas | % sobre 105h |
-|------------------------|--------------|-------|--------------|
+| Resultados de Aprendizaje | UD Asociadas | Horas | % sobre 105 h |
+|----------------------------|--------------|-------|----------------|
 | **RA1** – Fundamentos de DevOps | UD1 | 3 h | 2,9 % |
 | **RA2** – Control de versiones | UD2, UD3 | 12 h | 11,4 % |
 | **RA3** – CI/CD | UD6, UD7 | 18 h | 17,1 % |
