@@ -59,7 +59,7 @@ jobs:
       - name: Upload PDF artifact
         uses: actions/upload-artifact@v4
         with:
-          name: sri_pdfs
+          name: ogs_pdfs
           path: |
             programacion_OGS.pdf
             sintesis_OGS.pdf

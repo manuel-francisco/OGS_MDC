@@ -1,26 +1,18 @@
-# Programación Didáctica  
-## Módulo Profesional: Introducción a DevOps y Automatización de Sistemas (OGS)  
-### Ciclo Formativo de Grado Superior: Administración de Sistemas Informáticos en Red (ASIR)  
-**Departamento de Informática**  
-Curso Académico: 2025/2026  
+# Introducción  
 
----
-
-## 1. Introducción  
-
-### 1.1. Justificación  
-El módulo profesional **Introducción a DevOps y Automatización de Sistemas (OGS)** es un módulo optativo que pertenece al ciclo formativo de **Administración de Sistemas Informáticos en Red (ASIR)**. Su finalidad es capacitar al alumnado en metodologías y herramientas modernas de administración y despliegue de sistemas, aportando una visión actualizada del papel de la automatización y la cultura DevOps en la gestión de infraestructuras.  
+## Justificación  
+El módulo profesional **Seguridad y Automatización en entornos DevOps (OGS)** es un módulo optativo que pertenece al ciclo formativo de **Administración de Sistemas Informáticos en Red (ASIR)**. Su finalidad es capacitar al alumnado en metodologías y herramientas modernas de administración y despliegue de sistemas, aportando una visión actualizada del papel de la automatización y la cultura DevOps en la gestión de infraestructuras.  
 
 La creciente adopción de prácticas DevOps en el sector TIC exige profesionales capaces de integrar desarrollo y operaciones, automatizar procesos, gestionar entornos en la nube y garantizar la continuidad del servicio. Este módulo constituye, por tanto, un complemento formativo clave para la empleabilidad del alumnado en entornos ágiles y altamente demandados por las empresas.  
 
-### 1.2. Contextualización del módulo en el ciclo formativo  
+## Contextualización del módulo en el ciclo formativo  
 El módulo se imparte en el **segundo curso** del CFGS ASIR, con una carga lectiva de **optativa**, cuya duración se establece en función de la organización del centro.  
 
 OGS se integra de manera transversal con otros módulos como *Administración de Sistemas Operativos*, *Servicios de Red e Internet* o *Implantación de Aplicaciones Web*, aportando competencias específicas relacionadas con la **automatización, la integración continua, la orquestación de contenedores y la infraestructura como código**.  
 
 De esta forma, el módulo refuerza la formación práctica y aplicada del ciclo, situando al alumnado en un contexto profesional real alineado con las tendencias tecnológicas actuales.  
 
-### 1.3. Marco legislativo  
+## Marco legislativo  
 El desarrollo del presente módulo se apoya en la siguiente normativa:  
 
 - **Ley Orgánica 2/2006, de 3 de mayo, de Educación (LOE)**, modificada por la **Ley Orgánica 3/2020, de 29 de diciembre (LOMLOE)**.  
@@ -31,9 +23,9 @@ El desarrollo del presente módulo se apoya en la siguiente normativa:
 - **Orden de 19 de julio de 2010**, por la que se desarrolla el currículo correspondiente al título de Técnico Superior en ASIR en Andalucía.  
 - Normativa autonómica vigente sobre evaluación, atención a la diversidad y planes educativos transversales.  
 
-## 2. Objetivos  
+# Objetivos  
 
-### 2.1. Objetivos generales del ciclo formativo  
+## Objetivos generales del ciclo formativo  
 De acuerdo con el **Real Decreto 1629/2009, de 30 de octubre**, por el que se establece el título de Técnico Superior en Administración de Sistemas Informáticos en Red, los objetivos generales del ciclo son:  
 
 a) Analizar la estructura del software de base, comparando las características y prestaciones de sistemas libres y propietarios, para administrar sistemas operativos de servidor.  
@@ -51,8 +43,8 @@ l) Participar de forma activa en la vida económica, social y cultural con actit
 m) Conocer y aplicar la legislación laboral y los derechos y deberes derivados de las relaciones laborales.  
 n) Trabajar en condiciones de seguridad y salud, identificando riesgos y aplicando medidas preventivas.  
 
-### 2.2. Objetivos generales del módulo  
-Los objetivos específicos del módulo de **Introducción a DevOps y Automatización de Sistemas (OGS)** son:  
+## Objetivos generales del módulo  
+Los objetivos específicos del módulo de **Seguridad y Automatización en entornos DevOps (OGS)** son:  
 
 a) Explicar los fundamentos de DevOps y su impacto en la administración de sistemas, diferenciándolo de los enfoques tradicionales.  
 b) Utilizar herramientas de control de versiones para la gestión de código y la colaboración en entornos DevOps.  
@@ -61,9 +53,9 @@ d) Implementar entornos basados en contenedores y orquestación utilizando Docke
 e) Aplicar técnicas de Infraestructura como Código (IaC) para la automatización de la configuración y despliegue de sistemas.  
 f) Configurar sistemas de monitorización y gestión de logs en entornos DevOps.  
 
-## 3. Competencias profesionales, personales y sociales  
+# Competencias profesionales, personales y sociales  
 
-### 3.1. Competencias del ciclo formativo  
+## Competencias del ciclo formativo  
 La competencia general del título de **Técnico Superior en Administración de Sistemas Informáticos en Red** consiste en configurar, administrar y mantener sistemas informáticos, garantizando la funcionalidad, la integridad de los recursos y servicios del sistema, con la calidad exigida y cumpliendo la normativa vigente.  
 
 Las competencias profesionales, personales y sociales del ciclo son:  
@@ -85,8 +77,8 @@ n) Fomentar el espíritu emprendedor, el autoempleo y la creación de pequeñas 
 o) Participar de manera activa, crítica y responsable en la sociedad y en la vida profesional.  
 p) Conocer y aplicar la normativa laboral, así como las medidas de prevención de riesgos y protección medioambiental.  
 
-### 3.2. Competencias específicas del módulo OGS  
-El módulo de **Introducción a DevOps y Automatización de Sistemas** contribuye de manera particular al desarrollo de las siguientes competencias:
+## Competencias específicas del módulo OGS  
+El módulo de **Seguridad y Automatización en entornos DevOps** contribuye de manera particular al desarrollo de las siguientes competencias:
 
 a) Explicar los fundamentos de DevOps y su impacto en la administración de sistemas.  
 b) Utilizar herramientas de control de versiones en entornos colaborativos, aplicando buenas prácticas de documentación y resolución de conflictos.  
@@ -96,13 +88,13 @@ e) Aplicar técnicas de Infraestructura como Código (IaC) para la configuració
 f) Configurar sistemas de monitorización y gestión de logs, interpretando métricas e implementando alertas en entornos DevOps.  
 g) Integrar metodologías DevOps en escenarios profesionales, favoreciendo la colaboración entre equipos de desarrollo y operaciones.  
 
-### 4.1. Distribución de contenidos y secuenciación temporal  
+## Distribución de contenidos y secuenciación temporal  
 
-El módulo de **Introducción a DevOps y Automatización de Sistemas (OGS)** tiene una duración de **105 horas**, con una carga de **3 horas semanales** durante **35 semanas lectivas**.  
+El módulo de **Seguridad y Automatización en entornos DevOps (OGS)** tiene una duración de **105 horas**, con una carga de **3 horas semanales** durante **35 semanas lectivas**.  
 
 La organización se estructura en **4 bloques temáticos**, cada uno con varias unidades didácticas (UD). La temporalización por trimestres es la siguiente:  
 
-#### Primer trimestre (14 semanas → 42 h)  
+### Primer trimestre (14 semanas → 42 h)  
 - **Bloque 1: Fundamentos y control de versiones**  
   - UD1: Introducción a DevOps → 3 h  
   - UD2: Sistemas de control de versiones → 6 h  
@@ -114,7 +106,7 @@ La organización se estructura en **4 bloques temáticos**, cada uno con varias 
   - UD6: Principios de CI/CD → 9 h  
   - UD7: Diseño de pipelines (inicio) → 9 h  
 
-#### Segundo trimestre (12 semanas → 36 h)  
+### Segundo trimestre (12 semanas → 36 h)  
 - **Bloque 2: Contenedores e integración continua (continuación)**  
   - UD7: Diseño de pipelines (finalización) → 9 h  
 
@@ -123,7 +115,7 @@ La organización se estructura en **4 bloques temáticos**, cada uno con varias 
   - UD9: Infrastructure-as-Code → 9 h  
   - UD10: Monitorización y gestión de logs (inicio) → 9 h  
 
-#### Tercer trimestre (9 semanas → 27 h)  
+### Tercer trimestre (9 semanas → 27 h)  
 - **Bloque 3: Orquestación, IaC y monitorización (continuación)**  
   - UD10: Monitorización y gestión de logs (finalización) → 3 h  
   - UD11: Despliegue en la nube → 6 h  
@@ -131,10 +123,10 @@ La organización se estructura en **4 bloques temáticos**, cada uno con varias 
 - **Bloque 4: DevOps en la vida real**  
   - UD12: DevOps en la vida real (proyectos integradores y casos prácticos) → 18 h  
 
-### 4.1.b. Relación de Resultados de Aprendizaje (RA) con Unidades Didácticas (UD)  
+## Relación de Resultados de Aprendizaje (RA) con Unidades Didácticas (UD)  
 
-| Bloque | Unidad Didáctica | Título | Resultado de Aprendizaje (RA) | Horas | Evaluación |
-|--------|------------------|--------|-------------------------------|-------|------------|
+| Bloque | Unidad Didáctica     | RA | Horas | Evaluación |
+|--------|----------------------|----|-------|------------|
 | 1 | UD1 | Introducción a DevOps | RA1 | 3 h | 1º Trimestre |
 | 1 | UD2 | Sistemas de control de versiones | RA2 | 6 h | 1º Trimestre |
 | 1 | UD3 | Estrategias de branching y trabajo colaborativo | RA2 | 6 h | 1º Trimestre |
@@ -150,7 +142,7 @@ La organización se estructura en **4 bloques temáticos**, cada uno con varias 
 
 ---
 
-#### (1) Número de horas por bloque  
+### Número de horas por bloque  
 
 | Bloque | Título | Horas |
 |--------|--------|-------|
@@ -162,7 +154,7 @@ La organización se estructura en **4 bloques temáticos**, cada uno con varias 
 
 ---
 
-#### (2) Número de horas por trimestre  
+### Número de horas por trimestre  
 
 | Trimestre | Semanas | Bloques incluidos | Horas |
 |-----------|---------|------------------|-------|
@@ -173,10 +165,10 @@ La organización se estructura en **4 bloques temáticos**, cada uno con varias 
 
 ---
 
-#### (3) Número de horas por RA  
+### Número de horas por RA  
 
-| Resultado de Aprendizaje (RA) | Unidades Didácticas Asociadas | Horas | % sobre 105h |
-|-------------------------------|-------------------------------|-------|--------------|
+| Resultados Aprendizaje | UD Asociadas | Horas | % sobre 105h |
+|------------------------|--------------|-------|--------------|
 | **RA1** – Fundamentos de DevOps | UD1 | 3 h | 2,9 % |
 | **RA2** – Control de versiones | UD2, UD3 | 12 h | 11,4 % |
 | **RA3** – CI/CD | UD6, UD7 | 18 h | 17,1 % |
@@ -186,7 +178,7 @@ La organización se estructura en **4 bloques temáticos**, cada uno con varias 
 | **RA7** – Proyecto integrador | UD12 | 27 h | 25,7 % |
 | **Total** | — | **105 h** | **100 %** |
 
-### 4.2. Resultados de Aprendizaje y Criterios de Evaluación  
+## Resultados de Aprendizaje y Criterios de Evaluación  
 
 **RA1. Explica los fundamentos de DevOps y su impacto en la administración de sistemas, diferenciándolo de los enfoques tradicionales.**  
   a) Se ha explicado la evolución de los modelos tradicionales de administración de sistemas hacia DevOps.  
@@ -258,9 +250,9 @@ La organización se estructura en **4 bloques temáticos**, cada uno con varias 
   d) Se ha trabajado en equipo, aplicando metodologías colaborativas propias de entornos DevOps.  
   e) Se ha documentado el proyecto final, incluyendo procedimientos, configuraciones y justificación técnica de las decisiones tomadas.  
 
-## 5. Metodología
+# Metodología
 
-### 5.1. Principios metodológicos  
+## Principios metodológicos  
 La metodología aplicada en este módulo se basa en los siguientes principios:  
 
 - **Aprendizaje activo y significativo**: los estudiantes adquieren conocimientos a partir de la práctica real, la resolución de problemas y la experimentación directa con herramientas DevOps.  
@@ -281,7 +273,7 @@ En el marco del módulo de **Seguridad y Automatización en entornos DevOps**, e
 
 ---
 
-### 5.2. Estrategias y técnicas de enseñanza-aprendizaje  
+## Estrategias y técnicas de enseñanza-aprendizaje  
 
 - **Clases prácticas en aula-taller**: implementación de pipelines CI/CD, creación de contenedores, automatización de infraestructuras y configuración de sistemas monitorizados.  
 - **Aprendizaje basado en proyectos (ABP)**: desarrollo de proyectos integradores que simulan entornos empresariales DevOps reales.  
@@ -293,7 +285,7 @@ En el marco del módulo de **Seguridad y Automatización en entornos DevOps**, e
 
 ---
 
-### 5.3. Actividades del proceso de enseñanza-aprendizaje  
+## Actividades del proceso de enseñanza-aprendizaje  
 
 - **Actividades iniciales**:  
   - Evaluación de conocimientos previos sobre administración de sistemas, control de versiones y redes.  
@@ -320,7 +312,7 @@ En el marco del módulo de **Seguridad y Automatización en entornos DevOps**, e
 
 ---
 
-### 5.4. Tratamiento de los contenidos transversales  
+## Tratamiento de los contenidos transversales  
 
 A lo largo del módulo se incorporan transversalmente los siguientes contenidos:  
 
@@ -333,9 +325,9 @@ A lo largo del módulo se incorporan transversalmente los siguientes contenidos:
 
 ---
 
-## 6. Evaluación
+# Evaluación
 
-### 6.1. Evaluación inicial  
+## Evaluación inicial  
 Durante las primeras sesiones se realizará una **evaluación inicial** para identificar el nivel de partida del alumnado.  
 Instrumentos empleados:  
 - Cuestionario diagnóstico sobre administración de sistemas, virtualización, control de versiones y automatización.  
@@ -345,7 +337,7 @@ Los resultados permitirán ajustar la metodología, proponer actividades de refu
 
 ---
 
-### 6.2. Procedimientos de evaluación  
+## Procedimientos de evaluación  
 La evaluación será **continua y formativa**, valorando tanto el proceso como los resultados obtenidos.  
 Procedimientos principales:  
 
@@ -365,31 +357,40 @@ Las actividades realizadas en el aula tendrán carácter **no recuperable**.
 
 ---
 
-### 6.3. Criterios de calificación  
+## Criterios de calificación  
 
 1. **Cálculo de la nota final del módulo**  
-   - La nota se obtiene mediante la **media ponderada de los RA** según su peso en las **105 h** totales.  
-   - La nota de cada **RA** se calcula como la media de sus criterios.  
-   - La nota de cada **criterio** se obtiene como la media de las actividades asociadas.  
+   - La nota se obtiene mediante la **media ponderada de cada RA** en función del porcentaje de horas sobre el total del módulo (175h).  
+   - La nota de cada **RA** se obtiene mediante la **media aritmética de todos los criterios** asociados.  
+   - La nota de cada **criterio** se obtiene mediante la **media aritmética de todas las actividades** asociadas a ese criterio.  
 
 2. **Requisitos mínimos para superar el módulo**  
-   - Nota media ponderada ≥ **5,0**.  
+   - Nota media ponderada del módulo ≥ **5,0** sobre 10.  
    - Nota mínima de **5,0** en cada RA.  
-   - Si algún RA < 5, la **nota final del módulo** será la nota del RA no superado.  
+   - Si la nota de algún RA es inferior a 5, la **nota final del módulo** será la mínima entre todos los RAs no superados.  
 
-3. **Ejemplo de cálculo**  
-   - RA1 (3h) = 6,0  
-   - RA2 (12h) = 5,0  
-   - RA3 (18h) = 7,0  
-   - RA4 (18h) = 6,5  
-   - RA5 (15h) = 5,5  
-   - RA6 (12h) = 8,0  
-   - RA7 (27h) = 6,0  
-   - Nota ponderada final = 6,2 → **Módulo superado**.  
+3. **Ejemplos de cálculo**  
+   - Ejemplo 1:
+     - RA1 (2h, que equivale al 2,5%) = 4,9  
+     - RA2 (38h, que equivale al 47,5%) = 6,0  
+     - RA6 (40h, que equivale al 50%) = 10,0  
+     - Nota media ponderada = 4,9  
+     - **Resultado**: el módulo está **suspenso** con nota final = 4,9 (mínimo de RA no superado).
+
+   - Ejemplo 2:  
+     - RA1 (20 h, que equivale al 11,4 %) = 7,0  
+     - RA2 (40 h, que equivale al 22,9 %) = 5,0  
+     - RA3 (20 h, que equivale al 11,4 %) = 6,0  
+     - RA4 (20 h, que equivale al 11,4 %) = 5,5  
+     - RA5 (25 h, que equivale al 14,3 %) = 6,0  
+     - RA6 (40 h, que equivale al 22,9 %) = 5,5  
+     - RA7 (10 h, que equivale al 5,7 %) = 7,0  
+     - Nota media ponderada = 5,7  
+     - Todos los RA ≥ 5 → **módulo superado** con nota final 5,7.  
 
 ---
 
-### 6.4. Instrumentos de evaluación  
+## Instrumentos de evaluación  
 
 - **Cuaderno de prácticas y repositorios Git**.  
 - **Rúbricas de evaluación** para pipelines, contenedores, IaC y monitorización.  
@@ -400,7 +401,7 @@ Las actividades realizadas en el aula tendrán carácter **no recuperable**.
 
 ---
 
-### 6.5. Recuperación y mejora de resultados  
+## Recuperación y mejora de resultados  
 - La **evaluación continua** se mantiene durante todo el curso.  
 - Los alumnos que no superen todos los RA deberán presentarse a la **evaluación ordinaria**:  
   - **Prueba teórica** (test, preguntas cortas, desarrollo).  
@@ -410,7 +411,7 @@ Las actividades realizadas en el aula tendrán carácter **no recuperable**.
 
 ---
 
-## 7. Medidas de atención a la diversidad  
+# Medidas de atención a la diversidad  
 
 ### Adaptaciones metodológicas  
 La metodología será flexible, centrada en actividades prácticas y resolución de problemas reales en entornos DevOps.  
@@ -432,9 +433,9 @@ Las medidas se basan en los principios de inclusión, equidad, normalización, p
 
 ---
 
-## 8. Materiales y recursos didácticos  
+# Materiales y recursos didácticos  
 
-### 8.1. Recursos materiales y tecnológicos  
+## Recursos materiales y tecnológicos  
 
 - **Aula-taller DevOps** con:  
   - Ordenadores conectados en red y con acceso a Internet.  
@@ -461,12 +462,12 @@ Las medidas se basan en los principios de inclusión, equidad, normalización, p
 
 ---
 
-### 8.2. Bibliografía y documentación de apoyo  
+## Bibliografía y documentación de apoyo  
 - Páginas oficiales de herramientas DevOps: Git, Docker, Kubernetes, Jenkins, Ansible, Terraform, Prometheus, Grafana.  
 - Documentación de fabricantes y comunidades open source.  
 - Manuales y guías técnicas en inglés.  
 
-### 8.3. Otros recursos de apoyo  
+## Otros recursos de apoyo  
 - Repositorios docentes en GitHub.  
 - Charlas con profesionales del sector DevOps.  
 - Talleres prácticos en colaboración con empresas TIC.  
@@ -474,7 +475,7 @@ Las medidas se basan en los principios de inclusión, equidad, normalización, p
 
 ---
 
-## 9. Actividades complementarias y extraescolares  
+# Actividades complementarias y extraescolares  
 
 Se promoverán actividades que acerquen al alumnado a entornos profesionales reales:  
 
@@ -486,7 +487,7 @@ Se promoverán actividades que acerquen al alumnado a entornos profesionales rea
 
 ---
 
-## 10. Planes y programas vinculados al centro  
+# Planes y programas vinculados al centro  
 
 El módulo de **Seguridad y Automatización en entornos DevOps (AN07269)** se integra plenamente en el **Proyecto Educativo de Centro (PEC)** y en los planes institucionales del IES Mar de Cádiz:  
 
@@ -498,7 +499,7 @@ El módulo de **Seguridad y Automatización en entornos DevOps (AN07269)** se in
 
 ---
 
-## 11. Evaluación de la programación didáctica  
+# Evaluación de la programación didáctica  
 
 La programación del módulo será evaluada de forma continua para garantizar su adecuación, coherencia y eficacia.  
 
@@ -510,31 +511,32 @@ La programación del módulo será evaluada de forma continua para garantizar su
 Este proceso de revisión continua permitirá mantener la programación actualizada y alineada con las exigencias del sector profesional y las metodologías DevOps más recientes.
 
 
-### 11.1. Tabla de cotejo de la programación didáctica
+## Tabla de cotejo de la programación didáctica
 
-> Nota: los marcados con (*) no son de obligado cumplimiento normativo.
+> Nota: en **Observaciones** se indica la subsección donde se evidencia o lo que falta por añadir.  
+> Los marcados con (*) no son de obligado cumplimiento normativo.
 
 | Indicador (lista de cotejo) | Sí | No | Observaciones |
-|---|:--:|:--:|---|
-| Composición del departamento didáctico indicada * |  | ✘ | Falta añadir relación nominal de docentes. No se realizará por GDPR/LOPD. |
-| Asignación de materias/ámbitos a los componentes del departamento * |  | ✘ | Falta tabla de asignación docente. No se realizará por GDPR/LOPD. |
-| Referencias legislativas principales incluidas * | ✔︎ |  | [1.3 Marco legislativo](#13-marco-legislativo) |
-| Coherencia con objetivos/líneas del Proyecto Educativo de Centro | ✔︎ |  | [5.1 Principios metodológicos](#51-principios-metodológicos) / [10. Planes y programas vinculados al centro](#10-planes-y-programas-vinculados-al-centro) |
-| Relación de elementos curriculares conforme al anexo (RA, criterios, etc.) | ✔︎ |  | [4.2 Resultados de aprendizaje y criterios de evaluación](#42-resultados-de-aprendizaje-y-criterios-de-evaluación) |
-| Concreción curricular acorde al PEC y planes/programas del centro | ✔︎ |  | [4.2 Resultados de aprendizaje y criterios de evaluación](#42-resultados-de-aprendizaje-y-criterios-de-evaluación) / [10. Planes y programas vinculados al centro](#10-planes-y-programas-vinculados-al-centro) |
-| Distribución temporal realista y adecuada a semanas por trimestre | ✔︎ |  | [4.1 Distribución de contenidos y secuenciación temporal](#41-distribución-de-contenidos-y-secuenciación-temporal) |
-| Integración de elementos de planes y programas del centro | ✔︎ |  | [10. Planes y programas vinculados al centro](#10-planes-y-programas-vinculados-al-centro) |
-| Contribución a **competencias clave** y a objetivos de etapa | ✔︎ |  | [3. Competencias profesionales, personales y sociales](#3-competencias-profesionales-personales-y-sociales) |
-| (FPI) Contribución a **competencias profesionales, personales y sociales** | ✔︎ |  | [3. Competencias profesionales, personales y sociales](#3-competencias-profesionales-personales-y-sociales) |
-| **Principios pedagógicos** desarrollados | ✔︎ |  | [5. Metodología](#5-metodología) |
-| Principio pedagógico relevante vinculado a objetivos del centro | ✔︎ |  | [5.1 Principios metodológicos](#51-principios-metodológicos) / [10. Planes y programas vinculados al centro](#10-planes-y-programas-vinculados-al-centro) |
-| **Estrategias metodológicas** detalladas y coherentes | ✔︎ |  | [5.2 Estrategias y técnicas de enseñanza-aprendizaje](#52-estrategias-y-técnicas-de-enseñanza-aprendizaje) |
-| **Instrumentos de evaluación** variados y coherentes | ✔︎ |  | [6.2 Procedimientos de evaluación](#62-procedimientos-de-evaluación) |
-| **Referentes de evaluación** (criterios) detallados | ✔︎ |  | [4.2 Resultados de aprendizaje y criterios de evaluación](#42-resultados-de-aprendizaje-y-criterios-de-evaluación) |
-| **Determinación de la calificación** detallada y vinculada a criterios | ✔︎ |  | [6.3 Criterios de calificación](#63-criterios-de-calificación) |
-| **Evaluación inicial** concretada * | ✔︎ |  | [6.1 Evaluación inicial](#61-evaluación-inicial) |
-| Efectos de la evaluación inicial sobre la programación | ✔︎ |  | [6.1 Evaluación inicial](#61-evaluación-inicial) / [7. Medidas de atención a la diversidad](#7-medidas-de-atención-a-la-diversidad) |
-| **Medidas de atención a la diversidad** programadas | ✔︎ |  | [7. Medidas de atención a la diversidad](#7-medidas-de-atención-a-la-diversidad) |
-| **Recursos y materiales** coherentes con RA y SA | ✔︎ |  | [8. Materiales y recursos didácticos](#8-materiales-y-recursos-didácticos) |
-| **Actividades complementarias y extraescolares** programadas | ✔︎ |  | [9. Actividades complementarias y extraescolares](#9-actividades-complementarias-y-extraescolares) |
-| **Indicadores** para evaluar la programación didáctica | ✔︎ |  | [11. Evaluación de la programación didáctica](#11-evaluación-de-la-programación-didáctica) |
+|-----------------------------|:--:|:--:|---------------|
+| Composición del departamento didáctico indicada * |  | x | Falta añadir relación nominal de docentes. No se realizará por GDPR/LOPD. |
+| Asignación de materias/ámbitos a los componentes del departamento * |  | x | Falta tabla de asignación docente.  No se realizará por GDPR/LOPD. |
+| Referencias legislativas principales incluidas * | x |  | [Marco legislativo](#marco-legislativo) |
+| Coherencia con objetivos/líneas del Proyecto Educativo de Centro | x |  | [Principios metodológicos](#principios-metodológicos) / [Planes y programas](#planes-y-programas-vinculados-al-centro) |
+| Relación de elementos curriculares conforme al anexo (RA, criterios, etc.) | x |  | [Resultados y criterios](#resultados-de-aprendizaje-y-criterios-de-evaluación) |
+| Concreción curricular acorde al PEC y planes/programas del centro | x |  | [Resultados y criterios](#resultados-de-aprendizaje-y-criterios-de-evaluación) / [Planes y programas](#planes-y-programas-vinculados-al-centro) |
+| Distribución temporal realista y adecuada a semanas por trimestre | x |  | [Distribución y secuenciación](#distribución-de-contenidos-y-secuenciación-temporal) |
+| Integración de elementos de planes y programas del centro | x |  | [Planes y programas vinculados](#planes-y-programas-vinculados-al-centro) |
+| Contribución a **competencias clave** y a objetivos de etapa | x |  | [Competencias](#competencias-profesionales-personales-y-sociales) |
+| (FPI) Contribución a **competencias profesionales, personales y sociales** | x |  | [Competencias](#ompetencias-profesionales-personales-y-sociales) |
+| **Principios pedagógicos** desarrollados | x |  | [Metodología](#metodología) / [Principios pedagógicos](#principios-pedagógicos) |
+| Principio pedagógico relevante vinculado a objetivos del centro | x |  | [Principios metodológicos](#principios-metodológicos) / [Planes y programas](#planes-y-programas-vinculados-al-centro) |
+| **Estrategias metodológicas** detalladas y coherentes | x |  | [Estrategias](#estrategias-y-técnicas-de-enseñanza-aprendizaje) |
+| **Instrumentos de evaluación** variados y coherentes | x |  | [Instrumentos](#instrumentos-de-evaluación) |
+| **Referentes de evaluación** (criterios) detallados | x |  | [Resultados y criterios](#resultados-de-aprendizaje-y-criterios-de-evaluación) |
+| **Determinación de la calificación** detallada y vinculada a criterios | x |  | [Criterios de calificación](#criterios-de-calificación) |
+| **Evaluación inicial** concretada * | x |  | [Evaluación inicial](#evaluación-inicial) |
+| Efectos de la evaluación inicial sobre la programación | x |  | [Evaluación inicial](#evaluación-inicial) / [Atención a la diversidad](#medidas-de-atención-a-la-diversidad) |
+| **Medidas de atención a la diversidad** programadas | x |  | [Medidas de atención a la diversidad](#medidas-de-atención-a-la-diversidad) |
+| **Recursos y materiales** coherentes con RA y SA | x |  | [Materiales y recursos](#materiales-y-recursos-didácticos) |
+| **Actividades complementarias y extraescolares** programadas | x |  | [Actividades complementarias](#actividades-complementarias-y-extraescolares) |
+| **Indicadores** para evaluar la programación didáctica | x |  | [Evaluación de la programación didáctica](#evaluación-de-la-programación-didáctica) |
