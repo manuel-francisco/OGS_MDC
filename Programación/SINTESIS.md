@@ -1,8 +1,9 @@
-### I.E.S. MAR DE CÁDIZ  
-### CFGS Administración de Sistemas Informáticos en Red (2º curso)  
-#### Documento de Síntesis de la Programación Didáctica
-**Módulo profesional:** Seguridad y Automatización en entornos DevOps (AN07269)  
-**Curso escolar:** 2025/2026  
+# I.E.S. MAR DE CÁDIZ  
+## CFGS Administración de Sistemas Informáticos en Red (2º curso)  
+### Documento de Síntesis de la Programación Didáctica
+
+- **Módulo profesional:** Seguridad y Automatización en entornos DevOps (AN07269)  
+- **Curso escolar:** 2025/2026  
 
 ---
 
