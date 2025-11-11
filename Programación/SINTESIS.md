@@ -12,13 +12,13 @@
 
 | Letra | Criterio de evaluación |   %   |
 |:---:|-------------------------------------------------------------------------------------------------------------------------------------|:----:|
-| a) | Explica la evolución de los modelos tradicionales de administración hacia DevOps. | 2,86 |
-| b) | Describe las ventajas y desventajas del enfoque DevOps. | 2,86 |
-| c) | Identifica las principales herramientas y metodologías utilizadas en entornos DevOps. | 2,86 |
-| d) | Analiza casos de uso en los que DevOps aporta beneficios. | 2,86 |
-| e) | Explica la importancia de la colaboración entre desarrollo y operaciones. | 2,86 |
-| f) | Expone buenas prácticas en la adopción de DevOps. | 2,86 |
-| g) | Relaciona DevOps con otros paradigmas como Agile y SRE. | 2,84 |
+| a) | Explica la evolución de los modelos tradicionales de administración hacia DevOps. | 14,29 |
+| b) | Describe las ventajas y desventajas del enfoque DevOps. | 14,29 |
+| c) | Identifica las principales herramientas y metodologías utilizadas en entornos DevOps. | 14,29 |
+| d) | Analiza casos de uso en los que DevOps aporta beneficios. | 14,29 |
+| e) | Explica la importancia de la colaboración entre desarrollo y operaciones. | 14,29 |
+| f) | Expone buenas prácticas en la adopción de DevOps. | 14,29 |
+| g) | Relaciona DevOps con otros paradigmas como Agile y SRE. | 14,29 |
 
 ---
 
@@ -28,12 +28,12 @@
 
 | Letra | Criterio de evaluación |   %   |
 |:---:|----------------------------------------------------------------------------------------------------------------------------------|:----:|
-| a) | Instala y configura herramientas de control de versiones como Git. | 3,33 |
-| b) | Crea y gestiona repositorios remotos en plataformas como GitHub o GitLab. | 3,33 |
-| c) | Aplica estrategias de branching como Git Flow en un entorno colaborativo. | 3,33 |
-| d) | Utiliza webhooks para integrar control de versiones con herramientas de automatización. | 3,33 |
-| e) | Documenta adecuadamente commits y versiones siguiendo buenas prácticas. | 3,33 |
-| f) | Resuelve conflictos en entornos colaborativos utilizando herramientas de merge. | 3,35 |
+| a) | Instala y configura herramientas de control de versiones como Git. | 16,67 |
+| b) | Crea y gestiona repositorios remotos en plataformas como GitHub o GitLab. | 16,67 |
+| c) | Aplica estrategias de branching como Git Flow en un entorno colaborativo. | 16,67 |
+| d) | Utiliza webhooks para integrar control de versiones con herramientas de automatización. | 16,67 |
+| e) | Documenta adecuadamente commits y versiones siguiendo buenas prácticas. | 16,67 |
+| f) | Resuelve conflictos en entornos colaborativos utilizando herramientas de merge. | 16,67 |
 
 ---
 
@@ -43,13 +43,13 @@
 
 | Letra | Criterio de evaluación |   %   |
 |:---:|------------------------------------------------------------------------------------------------------------------------------------|:----:|
-| a) | Explica los principios del desarrollo y despliegue continuo. | 2,86 |
-| b) | Diseña pipelines para la automatización de pruebas y despliegue de aplicaciones. | 2,86 |
-| c) | Configura herramientas de CI/CD como Jenkins, GitHub Actions o GitLab CI. | 2,86 |
-| d) | Implementa pruebas automatizadas en pipelines. | 2,86 |
-| e) | Identifica errores y optimiza la eficiencia de pipelines de CI/CD. | 2,86 |
-| f) | Explica estrategias de despliegue seguro como Blue-Green Deployment y Canary Releases. | 2,86 |
-| g) | Aplica la gestión de credenciales y variables de entorno en pipelines. | 2,84 |
+| a) | Explica los principios del desarrollo y despliegue continuo. | 14,29 |
+| b) | Diseña pipelines para la automatización de pruebas y despliegue de aplicaciones. | 14,29 |
+| c) | Configura herramientas de CI/CD como Jenkins, GitHub Actions o GitLab CI. | 14,29 |
+| d) | Implementa pruebas automatizadas en pipelines. | 14,29 |
+| e) | Identifica errores y optimiza la eficiencia de pipelines de CI/CD. | 14,29 |
+| f) | Explica estrategias de despliegue seguro como Blue-Green Deployment y Canary Releases. | 14,29 |
+| g) | Aplica la gestión de credenciales y variables de entorno en pipelines. | 14,29 |
 
 ---
 
@@ -59,13 +59,13 @@
 
 | Letra | Criterio de evaluación |   %   |
 |:---:|--------------------------------------------------------------------------------------------------------------------------------|:----:|
-| a) | Explica las diferencias entre virtualización y contenedores. | 2,86 |
-| b) | Crea imágenes y contenedores utilizando Docker. | 2,86 |
-| c) | Gestiona múltiples contenedores con Docker Compose. | 2,86 |
-| d) | Explica la arquitectura y componentes principales de Kubernetes. | 2,86 |
-| e) | Despliega aplicaciones en un clúster de Kubernetes. | 2,86 |
-| f) | Gestiona volúmenes y redes en entornos de contenedores. | 2,86 |
-| g) | Implementa políticas de seguridad en contenedores. | 2,84 |
+| a) | Explica las diferencias entre virtualización y contenedores. | 14,29 |
+| b) | Crea imágenes y contenedores utilizando Docker. | 14,29 |
+| c) | Gestiona múltiples contenedores con Docker Compose. | 14,29 |
+| d) | Explica la arquitectura y componentes principales de Kubernetes. | 14,29 |
+| e) | Despliega aplicaciones en un clúster de Kubernetes. | 14,29 |
+| f) | Gestiona volúmenes y redes en entornos de contenedores. | 14,29 |
+| g) | Implementa políticas de seguridad en contenedores. | 14,29 |
 
 ---
 
@@ -75,12 +75,12 @@
 
 | Letra | Criterio de evaluación |   %   |
 |:---:|------------------------------------------------------------------------------------------------------------------------------------|:----:|
-| a) | Identifica riesgos de seguridad en procesos de automatización y despliegue. | 3,33 |
-| b) | Implementa herramientas de seguridad en Infraestructura como Código (IaC). | 3,33 |
-| c) | Aplica políticas de seguridad en entornos de orquestación y contenedores. | 3,33 |
-| d) | Integra medidas de DevSecOps en servicios cloud e híbridos. | 3,33 |
-| e) | Configura auditorías y registros seguros. | 3,33 |
-| f) | Protege credenciales y secretos en entornos DevOps. | 3,35 |
+| a) | Identifica riesgos de seguridad en procesos de automatización y despliegue. | 16,67 |
+| b) | Implementa herramientas de seguridad en Infraestructura como Código (IaC). | 16,67 |
+| c) | Aplica políticas de seguridad en entornos de orquestación y contenedores. | 16,67 |
+| d) | Integra medidas de DevSecOps en servicios cloud e híbridos. | 16,67 |
+| e) | Configura auditorías y registros seguros. | 16,67 |
+| f) | Protege credenciales y secretos en entornos DevOps. | 16,67 |
 
 ---
 
